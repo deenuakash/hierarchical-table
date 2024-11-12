@@ -1,8 +1,13 @@
-# React + Vite
+What works
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- The table should have a label column and a value column.
+- Rows will be hierarchical, with each parent row potentially having child rows.
+- The table should have a Grand Total Row that sums up all its values
+- -Updating a Value by Percentage
+- Updating a Value Directly
+- Updating Value of a Subtotal
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- What needs wors
+- change in value should update variance
+- Allocation value button
+- some edge cases with input handling
