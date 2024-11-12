@@ -7,7 +7,8 @@ What works
 - Updating a Value Directly
 - Updating Value of a Subtotal
 
-- What needs wors
+What needs work
+
 - change in value should update variance
 - Allocation value button
 - some edge cases with input handling
